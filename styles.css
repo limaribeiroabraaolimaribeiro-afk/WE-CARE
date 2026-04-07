@@ -40,7 +40,7 @@ h1 {
 h2 {
     font-weight: 500px;
     font-size: 58px;
-    line-height: 51px; /* controla a altura visual */
+    line-height: 81px; /* controla a altura visual */
     color: #989D9C;
     width: 515px;
 }
@@ -81,7 +81,7 @@ h2 {
     height: 64px;
     border-radius: 30px;
     border: none;
-
+    margin-top: 20px;
     font-weight: 700;
     font-size: 24px;
     line-height: 100%;
